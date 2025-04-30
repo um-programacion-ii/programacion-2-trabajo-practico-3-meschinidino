@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jpLeSJQi)
 # Sistema de Gestión de Biblioteca - Práctica de Testing
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
@@ -10,9 +11,9 @@
 - **Recomendación:** Se sugiere leer la consigna completa antes de comenzar con el desarrollo para tener una visión general del proyecto y planificar adecuadamente el trabajo.
 
 ## Identificación del Alumno
-- **Nombre:** [Nombre del Alumno]
-- **Apellido:** [Apellido del Alumno]
-- **Legajo:** [Número de Legajo]
+- **Nombre:** Dino
+- **Apellido:** Meschini
+- **Legajo:** 62323
 
 ## Importante
 - La rama `main` está protegida y no se pueden hacer commits directos sobre ella
