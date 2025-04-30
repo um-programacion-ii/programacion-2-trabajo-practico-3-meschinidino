@@ -1,13 +1,16 @@
 package com.biblioteca.modelo;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class GestionUsuarios {
-    private List<Usuario> usuarios;
+    private final List<Usuario> usuarios;
+
+    public GestionUsuarios(List<Usuario> usuarios) {
+        this.usuarios = usuarios;
+    }
 
     public GestionUsuarios() {
-        this.usuarios = new ArrayList<>();
+        this(new java.util.ArrayList<>());
     }
 
     public boolean registrarUsuario(Usuario usuario) {
